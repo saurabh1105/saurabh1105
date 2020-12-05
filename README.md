@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently exploring **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://saurabhupadhyay.netlify.app/](https://saurabhupadhyay.netlify.app/)
+- 👨‍💻 All of my projects are available at 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
