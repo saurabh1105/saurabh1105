@@ -10,12 +10,12 @@ var a2Inc;
 var prevX;
 var prevY;
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(1320, 600);
   angleMode(DEGREES);
   background(30);
 
-  r1 = random(50, 100);
-  r2 = random(50, 100);
+  r1 = random(100, 500);
+  r2 = random(100, 500);
 
   a1Inc = random(0.1, 5);
   a2Inc = random(0.1, 5);
