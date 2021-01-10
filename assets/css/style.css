@@ -9,7 +9,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("../img/bg.jpg") top right no-repeat;
+  background: #040404 url("https://images.unsplash.com/photo-1499019963077-ab9127ab9596?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1051&q=80") top right no-repeat;
   background-size: cover;
   left: 0;
   right: 0;
